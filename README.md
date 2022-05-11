@@ -1,3 +1,4 @@
+The stack kata for an exercise described in https://github.com/SepehrNamdar/Stack-Kata
 # Stack (Pile) Kata :
 En informatique, une pile (en anglais stack) est une structure de données fondée sur le principe
 « dernier arrivé, premier sorti » (en anglais LIFO pour last in, first out), ce qui veut dire, qu&#39;en
